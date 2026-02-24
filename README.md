@@ -7,8 +7,8 @@ https://www.youtube.com/watch?v=pVv-fFPuudc
 
 1. Old Laptop / budget mini-PC / PC in working condition.
 2. Screwdriver set that is suitable for your hardware - Laptop / mini-PC
-3. Monitor and keyboard (if using a PC or mini-PC), only for initial setup
-4. USB / Thumb / Flash drive for installing Proxmox from - 16 Gb or higher
+3. (If using a PC or mini-PC), Monitor and keyboard, only for initial setup
+4. USB Flash drive for installing Proxmox from - 16 Gb or higher
 5. 2x SSDs - SATA or NVMe - 128 GB or higher. Used ones from ebay at 80% health works fine. Stick to reputable brands such as Samsung Evo or Pro models (very reliable), WD blue or black
 6. (If using laptop that has only 1 SSD connector) - USB SSD enclosure - SATA or NVMe
 
